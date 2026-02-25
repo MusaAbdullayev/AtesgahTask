@@ -1,0 +1,6 @@
+@EcommerseAtesgah_HostAddress = http://localhost:5062
+
+GET {{EcommerseAtesgah_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
