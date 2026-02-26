@@ -1,3 +1,5 @@
+using Ecommerse.BL;
+using Ecommerse.DAL;
 using Ecommerse.DAL.Context;
 using Microsoft.EntityFrameworkCore;
 
@@ -13,6 +15,9 @@ builder.Services.AddDbContext<AtesgahDbContext>(opt =>
     {
         opt.UseSqlServer(builder.Configuration.GetConnectionString("MSsql"));
     });
+builder.Services.AddAutoMapper();
+builder.Services.AddRepositories();
+builder.Services.AddService();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
