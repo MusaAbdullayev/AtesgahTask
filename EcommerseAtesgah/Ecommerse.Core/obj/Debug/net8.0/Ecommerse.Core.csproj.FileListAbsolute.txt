@@ -27,3 +27,4 @@ C:\Users\asus\Desktop\AtesgahTask\EcommerseAtesgah\Ecommerse.Core\obj\Debug\net8
 C:\Users\asus\Desktop\AtesgahTask\EcommerseAtesgah\Ecommerse.Core\obj\Debug\net8.0\Ecommerse.Core.pdb
 C:\Users\asus\Desktop\AtesgahTask\EcommerseAtesgah\Ecommerse.Core\obj\Debug\net8.0\Ecommerse.Core.genruntimeconfig.cache
 C:\Users\asus\Desktop\AtesgahTask\EcommerseAtesgah\Ecommerse.Core\obj\Debug\net8.0\ref\Ecommerse.Core.dll
+C:\Users\Sheki-Komp\Desktop\Ateshag\EcommerseAtesgah\Ecommerse.Core\obj\Debug\net8.0\Ecommerse.Core.sourcelink.json

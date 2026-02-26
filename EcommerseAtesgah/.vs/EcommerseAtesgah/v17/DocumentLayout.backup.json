@@ -1,114 +1,126 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\",
+  "WorkspaceRootPath": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerseatesgah\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerseatesgah\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerseatesgah\\ecommerseatesgah.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\ecommerseatesgah.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerseatesgah\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.bl\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\dto\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\dto\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\dto\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\dto\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\20260226112607_AddCategoryTable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ecommerse.DAL\\Migrations\\20260226112607_AddCategoryTable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerseatesgah\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\20260226112324_AddCategoryTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ecommerse.DAL\\Migrations\\20260226112324_AddCategoryTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.dal\\migrations\\20260225105557_sdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.dal\\migrations\\20260225105557_sdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\migrations\\20260225105557_sdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.dal\\migrations\\atesgahdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\migrations\\atesgahdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerseatesgah\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.dal\\context\\atesgahdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\context\\atesgahdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerseatesgah\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.bl\\dtos\\categorydtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\dtos\\categorydtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.bl\\profiles\\categoryprofile\\catprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\profiles\\categoryprofile\\catprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.bl\\dtos\\categorydtos\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\dtos\\categorydtos\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.bl\\ecommerse.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\ecommerse.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.bl\\dtos\\categorydtos\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\dtos\\categorydtos\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerseatesgah\\ecommerseatesgah.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\ecommerseatesgah.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.dal\\migrations\\atesgahdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\migrations\\atesgahdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.dal\\context\\atesgahdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\context\\atesgahdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerseatesgah\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|solutionrelative:ecommerse.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|solutionrelative:ecommerse.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|solutionrelative:ecommerse.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|solutionrelative:ecommerse.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|solutionrelative:ecommerse.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\asus\\desktop\\atesgahtask\\ecommerseatesgah\\ecommerse.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|solutionrelative:ecommerse.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.dal\\migrations\\20260226112607_addcategorytable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\migrations\\20260226112607_addcategorytable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.dal\\migrations\\20260226112324_addcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\migrations\\20260226112324_addcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\dtos\\categorydtos\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\dtos\\categorydtos\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\dtos\\categorydtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\dtos\\categorydtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\profiles\\categoryprofile\\catprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\profiles\\categoryprofile\\catprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\ecommerse.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\ecommerse.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\dtos\\categorydtos\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\dtos\\categorydtos\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,134 +130,148 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EcommerseAtesgah",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\EcommerseAtesgah\\EcommerseAtesgah.csproj",
-              "RelativeDocumentMoniker": "EcommerseAtesgah\\EcommerseAtesgah.csproj",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\EcommerseAtesgah\\EcommerseAtesgah.csproj",
-              "RelativeToolTip": "EcommerseAtesgah\\EcommerseAtesgah.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-26T12:01:44.851Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Ecommerse.DAL\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\ServiceRegistration.cs",
-              "RelativeToolTip": "Ecommerse.DAL\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CreateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\DTO\\Product\\CreateProductDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\DTO\\Product\\CreateProductDTO.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\DTO\\Product\\CreateProductDTO.cs",
+              "RelativeToolTip": "Ecommerse.BL\\DTO\\Product\\CreateProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vw0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T11:55:35.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.BL\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Ecommerse.BL\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.BL\\ServiceRegistration.cs",
-              "RelativeToolTip": "Ecommerse.BL\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T11:28:35.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\EcommerseAtesgah\\Program.cs",
-              "RelativeDocumentMoniker": "EcommerseAtesgah\\Program.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\EcommerseAtesgah\\Program.cs",
-              "RelativeToolTip": "EcommerseAtesgah\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:38:04.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Ecommerse.DAL\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "Ecommerse.DAL\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:46:38.95Z",
+              "WhenOpened": "2026-02-26T19:07:01.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "UpdateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\DTO\\Product\\UpdateProductDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\DTO\\Product\\UpdateProductDTO.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\DTO\\Product\\UpdateProductDTO.cs",
+              "RelativeToolTip": "Ecommerse.BL\\DTO\\Product\\UpdateProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:06:41.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EcommerseAtesgah\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EcommerseAtesgah\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:05:33.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.BL\\Services\\Implements\\CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Services\\Implements\\CategoryService.cs",
               "RelativeDocumentMoniker": "Ecommerse.BL\\Services\\Implements\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.BL\\Services\\Implements\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Services\\Implements\\CategoryService.cs",
               "RelativeToolTip": "Ecommerse.BL\\Services\\Implements\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwC0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T11:09:54.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.BL\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Ecommerse.BL\\Services\\Interfaces\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.BL\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeToolTip": "Ecommerse.BL\\Services\\Interfaces\\ICategoryService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\ServiceRegistration.cs",
+              "RelativeToolTip": "Ecommerse.BL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T10:55:08.346Z",
+              "WhenOpened": "2026-02-26T11:28:35.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20260226112607_AddCategoryTable1.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\20260226112607_AddCategoryTable1.cs",
-              "RelativeDocumentMoniker": "Ecommerse.DAL\\Migrations\\20260226112607_AddCategoryTable1.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\20260226112607_AddCategoryTable1.cs",
-              "RelativeToolTip": "Ecommerse.DAL\\Migrations\\20260226112607_AddCategoryTable1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Ecommerse.DAL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\ServiceRegistration.cs",
+              "RelativeToolTip": "Ecommerse.DAL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T11:26:07.638Z",
+              "WhenOpened": "2026-02-26T11:55:35.192Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerseAtesgah\\Program.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\Program.cs*",
+              "RelativeToolTip": "EcommerseAtesgah\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:38:04.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryUpdateDto.cs",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryUpdateDto.cs",
+              "RelativeToolTip": "Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T11:03:12.696Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "20260226112324_AddCategoryTable.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\20260226112324_AddCategoryTable.cs",
-              "RelativeDocumentMoniker": "Ecommerse.DAL\\Migrations\\20260226112324_AddCategoryTable.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\20260226112324_AddCategoryTable.cs",
-              "RelativeToolTip": "Ecommerse.DAL\\Migrations\\20260226112324_AddCategoryTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerse.DAL\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Ecommerse.DAL\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T11:23:25.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T10:46:19.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Ecommerse.BL\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:55:08.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "20260225105557_sdd.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\20260225105557_sdd.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\20260225105557_sdd.cs",
               "RelativeDocumentMoniker": "Ecommerse.DAL\\Migrations\\20260225105557_sdd.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\20260225105557_sdd.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\20260225105557_sdd.cs",
               "RelativeToolTip": "Ecommerse.DAL\\Migrations\\20260225105557_sdd.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T10:55:57.781Z",
               "EditorCaption": ""
@@ -253,223 +279,231 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "AtesgahDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\AtesgahDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Ecommerse.DAL\\Migrations\\AtesgahDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\AtesgahDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Ecommerse.DAL\\Migrations\\AtesgahDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerse.DAL\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Ecommerse.DAL\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T11:14:21.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T10:46:38.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AtesgahDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Context\\AtesgahDbContext.cs",
-              "RelativeDocumentMoniker": "Ecommerse.DAL\\Context\\AtesgahDbContext.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Context\\AtesgahDbContext.cs",
-              "RelativeToolTip": "Ecommerse.DAL\\Context\\AtesgahDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:32:42.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\EcommerseAtesgah\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\appsettings.json",
               "RelativeDocumentMoniker": "EcommerseAtesgah\\appsettings.json",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\EcommerseAtesgah\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\appsettings.json",
               "RelativeToolTip": "EcommerseAtesgah\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-25T10:36:59.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\EcommerseAtesgah\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "EcommerseAtesgah\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\EcommerseAtesgah\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "EcommerseAtesgah\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T11:12:40.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CategoryCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryCreateDto.cs",
-              "RelativeDocumentMoniker": "Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryCreateDto.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryCreateDto.cs",
-              "RelativeToolTip": "Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryCreateDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T10:56:43.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CatProfile.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.BL\\Profiles\\CategoryProfile\\CatProfile.cs",
-              "RelativeDocumentMoniker": "Ecommerse.BL\\Profiles\\CategoryProfile\\CatProfile.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.BL\\Profiles\\CategoryProfile\\CatProfile.cs",
-              "RelativeToolTip": "Ecommerse.BL\\Profiles\\CategoryProfile\\CatProfile.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T11:04:39.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CategoryUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryUpdateDto.cs",
-              "RelativeDocumentMoniker": "Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryUpdateDto.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryUpdateDto.cs",
-              "RelativeToolTip": "Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T11:03:12.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Ecommerse.BL",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.BL\\Ecommerse.BL.csproj",
-              "RelativeDocumentMoniker": "Ecommerse.BL\\Ecommerse.BL.csproj",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.BL\\Ecommerse.BL.csproj",
-              "RelativeToolTip": "Ecommerse.BL\\Ecommerse.BL.csproj",
+              "DocumentIndex": 10,
+              "Title": "EcommerseAtesgah.csproj",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\EcommerseAtesgah.csproj",
+              "RelativeDocumentMoniker": "EcommerseAtesgah\\EcommerseAtesgah.csproj",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\EcommerseAtesgah.csproj",
+              "RelativeToolTip": "EcommerseAtesgah\\EcommerseAtesgah.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-26T11:03:53.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CategoryGetDto.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryGetDto.cs",
-              "RelativeDocumentMoniker": "Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryGetDto.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryGetDto.cs",
-              "RelativeToolTip": "Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryGetDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T10:58:12.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Ecommerse.DAL\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Ecommerse.DAL\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:46:19.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Ecommerse.DAL\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "Ecommerse.DAL\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:44:37.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Ecommerse.Core\\Repositories\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\ICategoryRepository.cs",
-              "RelativeToolTip": "Ecommerse.Core\\Repositories\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:43:54.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T12:01:44.851Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Ecommerse.Core\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "Ecommerse.Core\\Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "20260226112607_AddCategoryTable1.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\20260226112607_AddCategoryTable1.cs",
+              "RelativeDocumentMoniker": "Ecommerse.DAL\\Migrations\\20260226112607_AddCategoryTable1.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\20260226112607_AddCategoryTable1.cs",
+              "RelativeToolTip": "Ecommerse.DAL\\Migrations\\20260226112607_AddCategoryTable1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:42:59.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T11:26:07.638Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Ecommerse.Core\\Repositories\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\IGenericRepository.cs",
-              "RelativeToolTip": "Ecommerse.Core\\Repositories\\IGenericRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBQAAABGAAAAAAAAAA==",
+              "Title": "20260226112324_AddCategoryTable.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\20260226112324_AddCategoryTable.cs",
+              "RelativeDocumentMoniker": "Ecommerse.DAL\\Migrations\\20260226112324_AddCategoryTable.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\20260226112324_AddCategoryTable.cs",
+              "RelativeToolTip": "Ecommerse.DAL\\Migrations\\20260226112324_AddCategoryTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:41:50.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T11:23:25.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Ecommerse.Core\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\Category.cs",
-              "RelativeToolTip": "Ecommerse.Core\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "AtesgahDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\AtesgahDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Ecommerse.DAL\\Migrations\\AtesgahDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\AtesgahDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Ecommerse.DAL\\Migrations\\AtesgahDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:23:20.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T11:14:21.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Ecommerse.Core\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\Product.cs",
-              "RelativeToolTip": "Ecommerse.Core\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "AtesgahDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Context\\AtesgahDbContext.cs",
+              "RelativeDocumentMoniker": "Ecommerse.DAL\\Context\\AtesgahDbContext.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Context\\AtesgahDbContext.cs",
+              "RelativeToolTip": "Ecommerse.DAL\\Context\\AtesgahDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:23:11.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T10:32:42.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "EcommerseAtesgah\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "EcommerseAtesgah\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T11:12:40.335Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryCreateDto.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryCreateDto.cs",
+              "RelativeToolTip": "Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryCreateDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:56:43.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CatProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Profiles\\CategoryProfile\\CatProfile.cs",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\Profiles\\CategoryProfile\\CatProfile.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Profiles\\CategoryProfile\\CatProfile.cs",
+              "RelativeToolTip": "Ecommerse.BL\\Profiles\\CategoryProfile\\CatProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T11:04:39.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Ecommerse.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Ecommerse.BL.csproj",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\Ecommerse.BL.csproj",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Ecommerse.BL.csproj",
+              "RelativeToolTip": "Ecommerse.BL\\Ecommerse.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T11:03:53.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryGetDto.cs",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryGetDto.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryGetDto.cs",
+              "RelativeToolTip": "Ecommerse.BL\\DTOS\\CategoryDTOS\\CategoryGetDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:58:12.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerse.DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Ecommerse.DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:44:37.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerse.Core\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Ecommerse.Core\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:43:54.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerse.Core\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Ecommerse.Core\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:42:59.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerse.Core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Ecommerse.Core\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:41:50.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Ecommerse.Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "Ecommerse.Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:23:20.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Ecommerse.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Ecommerse.Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:23:11.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Ecommerse.Core\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\AtesgahTask\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\BaseEntity.cs",
               "RelativeToolTip": "Ecommerse.Core\\Entities\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:22:34.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T10:22:34.105Z"
             }
           ]
         }

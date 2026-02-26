@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\23a5d3fa-2a14-4598-8cc3-4fe55f943af9.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\23a5d3fa-2a14-4598-8cc3-4fe55f943af9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\547e19bd-e1cb-4269-869e-685d28e42ea4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\547e19bd-e1cb-4269-869e-685d28e42ea4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\5ff73fde-e5e9-4578-a39d-a51c57d23eec.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\5ff73fde-e5e9-4578-a39d-a51c57d23eec.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\6d2456f3-e9eb-4db9-83e0-2341d6720410.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\6d2456f3-e9eb-4db9-83e0-2341d6720410.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\8bc07e2c-12df-4920-be2c-75f23dd2975c.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\8bc07e2c-12df-4920-be2c-75f23dd2975c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\ba1cb433-06b9-4d78-95b1-b5ea0c581ae0.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\ba1cb433-06b9-4d78-95b1-b5ea0c581ae0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\d1f0a4f8-7ace-41e4-a979-a79d75d26ef6.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\d1f0a4f8-7ace-41e4-a979-a79d75d26ef6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\fd4078ee-c4ac-4b5e-bdcf-f70ef02ebcde.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\fd4078ee-c4ac-4b5e-bdcf-f70ef02ebcde.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EcommerseAtesgah.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EcommerseAtesgah.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EcommerseAtesgah.props",
+      "PackagePath": "build\\EcommerseAtesgah.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EcommerseAtesgah.props",
+      "PackagePath": "buildMultiTargeting\\EcommerseAtesgah.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EcommerseAtesgah.props",
+      "PackagePath": "buildTransitive\\EcommerseAtesgah.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

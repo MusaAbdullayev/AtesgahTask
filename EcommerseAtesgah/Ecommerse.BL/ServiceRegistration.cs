@@ -1,4 +1,6 @@
-﻿using Ecommerse.BL.Services.Implements;
+﻿using Ecommerse.BL.Service.Implementation.Product;
+using Ecommerse.BL.Service.Interface.Product;
+using Ecommerse.BL.Services.Implements;
 using Ecommerse.BL.Services.Interfaces;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -15,6 +17,7 @@ namespace Ecommerse.BL
         public static IServiceCollection AddService(this IServiceCollection services)
         {
             services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<IProductService, ProductService>();
             return services;
         }
         public static IServiceCollection AddAutoMapper(this IServiceCollection services)

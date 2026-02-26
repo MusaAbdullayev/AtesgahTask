@@ -33,3 +33,4 @@ C:\Users\asus\Desktop\AtesgahTask\EcommerseAtesgah\Ecommerse.DAL\obj\Debug\net8.
 C:\Users\asus\Desktop\AtesgahTask\EcommerseAtesgah\Ecommerse.DAL\obj\Debug\net8.0\Ecommerse.DAL.pdb
 C:\Users\asus\Desktop\AtesgahTask\EcommerseAtesgah\Ecommerse.DAL\obj\Debug\net8.0\Ecommerse.DAL.genruntimeconfig.cache
 C:\Users\asus\Desktop\AtesgahTask\EcommerseAtesgah\Ecommerse.DAL\obj\Debug\net8.0\ref\Ecommerse.DAL.dll
+C:\Users\Sheki-Komp\Desktop\Ateshag\EcommerseAtesgah\Ecommerse.DAL\obj\Debug\net8.0\Ecommerse.DAL.sourcelink.json

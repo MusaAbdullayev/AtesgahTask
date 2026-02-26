@@ -1,23 +1,27 @@
-using Ecommerse.BL;
-using Ecommerse.DAL;
 using Ecommerse.DAL.Context;
+using Ecommerse.DAL.Repositories;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using AutoMapper;
+using Ecommerse.DAL;
+using Ecommerse.BL;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddRepositories();
+builder.Services.AddService();
+builder.Services.AddAutoMapper();
 builder.Services.AddDbContext<AtesgahDbContext>(opt =>
     {
         opt.UseSqlServer(builder.Configuration.GetConnectionString("MSsql"));
     });
-builder.Services.AddAutoMapper();
-builder.Services.AddRepositories();
-builder.Services.AddService();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -28,7 +32,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseStaticFiles();
 app.UseAuthorization();
 
 app.MapControllers();

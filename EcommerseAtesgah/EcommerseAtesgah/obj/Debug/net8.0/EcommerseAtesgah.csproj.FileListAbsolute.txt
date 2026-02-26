@@ -306,3 +306,8 @@ C:\Users\asus\Desktop\AtesgahTask\EcommerseAtesgah\EcommerseAtesgah\obj\Debug\ne
 C:\Users\asus\Desktop\AtesgahTask\EcommerseAtesgah\EcommerseAtesgah\obj\Debug\net8.0\ref\EcommerseAtesgah.dll
 C:\Users\asus\Desktop\AtesgahTask\EcommerseAtesgah\EcommerseAtesgah\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\asus\Desktop\AtesgahTask\EcommerseAtesgah\EcommerseAtesgah\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Sheki-Komp\Desktop\Ateshag\EcommerseAtesgah\EcommerseAtesgah\obj\Debug\net8.0\EcommerseAtesgah.sourcelink.json
+C:\Users\Sheki-Komp\Desktop\Ateshag\EcommerseAtesgah\EcommerseAtesgah\bin\Debug\net8.0\EcommerseAtesgah.staticwebassets.runtime.json
+C:\Users\Sheki-Komp\Desktop\Ateshag\EcommerseAtesgah\EcommerseAtesgah\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Sheki-Komp\Desktop\Ateshag\EcommerseAtesgah\EcommerseAtesgah\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Sheki-Komp\Desktop\Ateshag\EcommerseAtesgah\EcommerseAtesgah\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
