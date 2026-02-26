@@ -190,8 +190,7 @@
               "RelativeToolTip": "Ecommerse.BL\\Service\\Implementation\\Product\\ProductService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwA8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:35:11.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T14:35:11.133Z"
             },
             {
               "$type": "Document",
@@ -203,8 +202,7 @@
               "RelativeToolTip": "Ecommerse.Core\\Repositories\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:42:59.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T10:42:59.405Z"
             },
             {
               "$type": "Document",
@@ -216,8 +214,7 @@
               "RelativeToolTip": "Ecommerse.DAL\\Repositories\\CategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswBEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:46:38.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T10:46:38.95Z"
             },
             {
               "$type": "Document",
@@ -229,8 +226,7 @@
               "RelativeToolTip": "Ecommerse.DAL\\Repositories\\GenericRepository.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAiwBAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:44:37.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T10:44:37.153Z"
             },
             {
               "$type": "Document",
@@ -242,8 +238,7 @@
               "RelativeToolTip": "Ecommerse.BL\\Service\\Interface\\Product\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:35:25.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T14:35:25.07Z"
             },
             {
               "$type": "Document",
@@ -255,8 +250,7 @@
               "RelativeToolTip": "Ecommerse.Core\\Repositories\\IGenericRepository.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAIA2wBEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:41:50.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T10:41:50.12Z"
             },
             {
               "$type": "Document",
@@ -281,8 +275,7 @@
               "RelativeToolTip": "Ecommerse.DAL\\Repositories\\ProductRepository.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAcwAsAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:46:19.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T10:46:19.158Z"
             },
             {
               "$type": "Document",
@@ -294,8 +287,7 @@
               "RelativeToolTip": "Ecommerse.BL\\DTO\\Product\\UpdateProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:13:13.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T14:13:13.046Z"
             },
             {
               "$type": "Document",
@@ -307,8 +299,7 @@
               "RelativeToolTip": "Ecommerse.BL\\Helper\\Exception\\Product\\ProductException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:26:59.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T14:26:59.663Z"
             },
             {
               "$type": "Document",
@@ -320,8 +311,7 @@
               "RelativeToolTip": "Ecommerse.BL\\DTO\\Product\\CreateProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:09:06.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T14:09:06.618Z"
             },
             {
               "$type": "Document",
@@ -333,8 +323,7 @@
               "RelativeToolTip": "Ecommerse.BL\\Mapper\\Products\\ProductProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:16:13.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T14:16:13.042Z"
             },
             {
               "$type": "Document",
@@ -346,8 +335,7 @@
               "RelativeToolTip": "Ecommerse.BL\\Helper\\Exception\\Base\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T17:13:54.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T17:13:54.788Z"
             },
             {
               "$type": "Document",
@@ -404,8 +392,7 @@
               "RelativeToolTip": "Ecommerse.Core\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:23:11.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T10:23:11.804Z"
             },
             {
               "$type": "Document",
@@ -417,8 +404,7 @@
               "RelativeToolTip": "Ecommerse.BL\\DTO\\Product\\GetProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:07:31.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T14:07:31.445Z"
             },
             {
               "$type": "Document",
@@ -430,8 +416,7 @@
               "RelativeToolTip": "EcommerseAtesgah\\EcommerseAtesgah.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-02-25T21:40:37.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T21:40:37.06Z"
             },
             {
               "$type": "Document",
@@ -443,8 +428,7 @@
               "RelativeToolTip": "EcommerseAtesgah\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwCYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:38:04.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T10:38:04.456Z"
             },
             {
               "$type": "Document",
