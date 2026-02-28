@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecommerse.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be3ba68c89231ef802b29a10f99c0a6000595eef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d602e0cf3db348ea75fae3e95695553349824773")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecommerse.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecommerse.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
