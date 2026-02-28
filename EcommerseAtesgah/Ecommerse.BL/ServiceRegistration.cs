@@ -1,7 +1,8 @@
-﻿using Ecommerse.BL.ExternalServices.Abstractions;
-using Ecommerse.BL.ExternalServices.Implements;
-using Ecommerse.BL.Service.Implementation;
-using Ecommerse.BL.Service.Interface;
+﻿using Ecommerse.BL.Service.Implementation.Product;
+using Ecommerse.BL.Service.Interface.Product;
+using Ecommerse.BL.Services.Implements;
+using Ecommerse.BL.Services.Interfaces;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -13,25 +14,16 @@ namespace Ecommerse.BL
 {
     public static class ServiceRegistration
     {
-
-        public static IServiceCollection AddServices(this IServiceCollection services)
+        public static IServiceCollection AddService(this IServiceCollection services)
         {
-
-            
-            services.AddScoped<IAuthService, AuthService>();
-            services.AddScoped<IJwtTokenHandler, JwtTokenHandler>();
-           
+            services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<IProductService, ProductService>();
             return services;
         }
-
-
-       
-
         public static IServiceCollection AddAutoMapper(this IServiceCollection services)
         {
             services.AddAutoMapper(typeof(ServiceRegistration));
             return services;
         }
-
     }
 }

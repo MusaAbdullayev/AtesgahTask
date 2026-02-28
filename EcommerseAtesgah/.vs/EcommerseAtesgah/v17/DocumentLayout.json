@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerseatesgah\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\service\\interface\\product\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\service\\interface\\product\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\service\\implementation\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\service\\implementation\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|solutionrelative:ecommerse.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|solutionrelative:ecommerse.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\dto\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\dto\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\helper\\exception\\product\\productexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\helper\\exception\\product\\productexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\dto\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\dto\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\mapper\\products\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\mapper\\products\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\helper\\exception\\base\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\helper\\exception\\base\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerseatesgah\\wwwroot\\uploads\\d1f0a4f8-7ace-41e4-a979-a79d75d26ef6.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\wwwroot\\uploads\\d1f0a4f8-7ace-41e4-a979-a79d75d26ef6.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerseatesgah\\wwwroot\\uploads\\8bc07e2c-12df-4920-be2c-75f23dd2975c.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\wwwroot\\uploads\\8bc07e2c-12df-4920-be2c-75f23dd2975c.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerseatesgah\\wwwroot\\uploads\\6d2456f3-e9eb-4db9-83e0-2341d6720410.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\wwwroot\\uploads\\6d2456f3-e9eb-4db9-83e0-2341d6720410.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerseatesgah\\wwwroot\\uploads\\547e19bd-e1cb-4269-869e-685d28e42ea4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\wwwroot\\uploads\\547e19bd-e1cb-4269-869e-685d28e42ea4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|solutionrelative:ecommerse.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\dto\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\dto\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerseatesgah\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerseatesgah\\ecommerseatesgah.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\ecommerseatesgah.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.dal\\context\\atesgahdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\context\\atesgahdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerseatesgah\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.dal\\migrations\\atesgahdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\migrations\\atesgahdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.dal\\ecommerse.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\ecommerse.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerseatesgah\\ecommerseatesgah.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\ecommerseatesgah.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerseatesgah\\ecommerseatesgah.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\ecommerseatesgah.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerseatesgah\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8CDF085-381B-4723-AE29-67960D57F29E}|EcommerseAtesgah\\EcommerseAtesgah.csproj|solutionrelative:ecommerseatesgah\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\ecommerse.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\ecommerse.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.bl\\helper\\exception\\base\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE0722-1B3F-46C6-8086-81730FFE8876}|Ecommerse.BL\\Ecommerse.BL.csproj|solutionrelative:ecommerse.bl\\helper\\exception\\base\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|solutionrelative:ecommerse.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|solutionrelative:ecommerse.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8187AA-C0FD-4212-935F-D40CBF3E1BCB}|Ecommerse.Core\\Ecommerse.Core.csproj|solutionrelative:ecommerse.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|c:\\users\\sheki-komp\\desktop\\ateshag\\ecommerseatesgah\\ecommerse.dal\\migrations\\20260225105557_sdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647DD106-EE77-4E66-922E-B5FC95C1A706}|Ecommerse.DAL\\Ecommerse.DAL.csproj|solutionrelative:ecommerse.dal\\migrations\\20260225105557_sdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1237,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Service\\Implementation\\Product\\ProductService.cs",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\Service\\Implementation\\Product\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Service\\Implementation\\Product\\ProductService.cs",
+              "RelativeToolTip": "Ecommerse.BL\\Service\\Implementation\\Product\\ProductService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:35:11.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerse.Core\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Ecommerse.Core\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:42:59.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerse.DAL\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Ecommerse.DAL\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:46:38.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerse.DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Ecommerse.DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:44:37.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Service\\Interface\\Product\\IProductService.cs",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\Service\\Interface\\Product\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Service\\Interface\\Product\\IProductService.cs",
+              "RelativeToolTip": "Ecommerse.BL\\Service\\Interface\\Product\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:35:25.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerse.Core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Ecommerse.Core\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA2wBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:41:50.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EcommerseAtesgah\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EcommerseAtesgah\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T20:46:23.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerse.DAL\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Ecommerse.DAL\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:46:19.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\DTO\\Product\\UpdateProductDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\DTO\\Product\\UpdateProductDTO.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\DTO\\Product\\UpdateProductDTO.cs",
+              "RelativeToolTip": "Ecommerse.BL\\DTO\\Product\\UpdateProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:13:13.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductException.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Helper\\Exception\\Product\\ProductException.cs",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\Helper\\Exception\\Product\\ProductException.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Helper\\Exception\\Product\\ProductException.cs",
+              "RelativeToolTip": "Ecommerse.BL\\Helper\\Exception\\Product\\ProductException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:26:59.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\DTO\\Product\\CreateProductDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\DTO\\Product\\CreateProductDTO.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\DTO\\Product\\CreateProductDTO.cs",
+              "RelativeToolTip": "Ecommerse.BL\\DTO\\Product\\CreateProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:09:06.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Mapper\\Products\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\Mapper\\Products\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Mapper\\Products\\ProductProfile.cs",
+              "RelativeToolTip": "Ecommerse.BL\\Mapper\\Products\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:16:13.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Helper\\Exception\\Base\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\Helper\\Exception\\Base\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Helper\\Exception\\Base\\NotFoundException.cs",
+              "RelativeToolTip": "Ecommerse.BL\\Helper\\Exception\\Base\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:13:54.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "d1f0a4f8-7ace-41e4-a979-a79d75d26ef6.jpeg",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\d1f0a4f8-7ace-41e4-a979-a79d75d26ef6.jpeg",
+              "RelativeDocumentMoniker": "EcommerseAtesgah\\wwwroot\\uploads\\d1f0a4f8-7ace-41e4-a979-a79d75d26ef6.jpeg",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\d1f0a4f8-7ace-41e4-a979-a79d75d26ef6.jpeg",
+              "RelativeToolTip": "EcommerseAtesgah\\wwwroot\\uploads\\d1f0a4f8-7ace-41e4-a979-a79d75d26ef6.jpeg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-26T17:07:06.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "8bc07e2c-12df-4920-be2c-75f23dd2975c.jpeg",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\8bc07e2c-12df-4920-be2c-75f23dd2975c.jpeg",
+              "RelativeDocumentMoniker": "EcommerseAtesgah\\wwwroot\\uploads\\8bc07e2c-12df-4920-be2c-75f23dd2975c.jpeg",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\8bc07e2c-12df-4920-be2c-75f23dd2975c.jpeg",
+              "RelativeToolTip": "EcommerseAtesgah\\wwwroot\\uploads\\8bc07e2c-12df-4920-be2c-75f23dd2975c.jpeg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-26T17:07:05.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "6d2456f3-e9eb-4db9-83e0-2341d6720410.jpeg",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\6d2456f3-e9eb-4db9-83e0-2341d6720410.jpeg",
+              "RelativeDocumentMoniker": "EcommerseAtesgah\\wwwroot\\uploads\\6d2456f3-e9eb-4db9-83e0-2341d6720410.jpeg",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\6d2456f3-e9eb-4db9-83e0-2341d6720410.jpeg",
+              "RelativeToolTip": "EcommerseAtesgah\\wwwroot\\uploads\\6d2456f3-e9eb-4db9-83e0-2341d6720410.jpeg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-26T17:07:03.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "547e19bd-e1cb-4269-869e-685d28e42ea4.jpg",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\547e19bd-e1cb-4269-869e-685d28e42ea4.jpg",
+              "RelativeDocumentMoniker": "EcommerseAtesgah\\wwwroot\\uploads\\547e19bd-e1cb-4269-869e-685d28e42ea4.jpg",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\547e19bd-e1cb-4269-869e-685d28e42ea4.jpg",
+              "RelativeToolTip": "EcommerseAtesgah\\wwwroot\\uploads\\547e19bd-e1cb-4269-869e-685d28e42ea4.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-26T17:07:00.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Ecommerse.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Ecommerse.Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:23:11.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\DTO\\Product\\GetProductDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\DTO\\Product\\GetProductDTO.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\DTO\\Product\\GetProductDTO.cs",
+              "RelativeToolTip": "Ecommerse.BL\\DTO\\Product\\GetProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:07:31.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EcommerseAtesgah.http",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\EcommerseAtesgah.http",
+              "RelativeDocumentMoniker": "EcommerseAtesgah\\EcommerseAtesgah.http",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\EcommerseAtesgah.http",
+              "RelativeToolTip": "EcommerseAtesgah\\EcommerseAtesgah.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-25T21:40:37.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerseAtesgah\\Program.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\Program.cs",
+              "RelativeToolTip": "EcommerseAtesgah\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:38:04.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AtesgahDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Context\\AtesgahDbContext.cs",
+              "RelativeDocumentMoniker": "Ecommerse.DAL\\Context\\AtesgahDbContext.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Context\\AtesgahDbContext.cs",
+              "RelativeToolTip": "Ecommerse.DAL\\Context\\AtesgahDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:32:42.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerseAtesgah\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\appsettings.json",
+              "RelativeToolTip": "EcommerseAtesgah\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-25T10:36:59.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AtesgahDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\AtesgahDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Ecommerse.DAL\\Migrations\\AtesgahDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\AtesgahDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Ecommerse.DAL\\Migrations\\AtesgahDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:10:17.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Ecommerse.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Ecommerse.DAL.csproj",
+              "RelativeDocumentMoniker": "Ecommerse.DAL\\Ecommerse.DAL.csproj",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Ecommerse.DAL.csproj",
+              "RelativeToolTip": "Ecommerse.DAL\\Ecommerse.DAL.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T22:10:08.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EcommerseAtesgah\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EcommerseAtesgah\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-25T21:40:27.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EcommerseAtesgah",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\EcommerseAtesgah.csproj",
+              "RelativeDocumentMoniker": "EcommerseAtesgah\\EcommerseAtesgah.csproj",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\EcommerseAtesgah.csproj",
+              "RelativeToolTip": "EcommerseAtesgah\\EcommerseAtesgah.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T21:40:44.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EcommerseAtesgah.csproj",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\EcommerseAtesgah.csproj",
+              "RelativeDocumentMoniker": "EcommerseAtesgah\\EcommerseAtesgah.csproj",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\EcommerseAtesgah.csproj",
+              "RelativeToolTip": "EcommerseAtesgah\\EcommerseAtesgah.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T21:43:18.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Ecommerse.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Ecommerse.BL.csproj",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\Ecommerse.BL.csproj",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Ecommerse.BL.csproj",
+              "RelativeToolTip": "Ecommerse.BL\\Ecommerse.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T14:23:51.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseException.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Helper\\Exception\\Base\\BaseException.cs",
+              "RelativeDocumentMoniker": "Ecommerse.BL\\Helper\\Exception\\Base\\BaseException.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.BL\\Helper\\Exception\\Base\\BaseException.cs",
+              "RelativeToolTip": "Ecommerse.BL\\Helper\\Exception\\Base\\BaseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:28:28.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerse.Core\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Ecommerse.Core\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:43:54.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20260225105557_sdd.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\20260225105557_sdd.cs",
+              "RelativeDocumentMoniker": "Ecommerse.DAL\\Migrations\\20260225105557_sdd.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.DAL\\Migrations\\20260225105557_sdd.cs",
+              "RelativeToolTip": "Ecommerse.DAL\\Migrations\\20260225105557_sdd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:55:57.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Ecommerse.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Ecommerse.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:22:34.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Ecommerse.Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\Ecommerse.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "Ecommerse.Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:23:20.802Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

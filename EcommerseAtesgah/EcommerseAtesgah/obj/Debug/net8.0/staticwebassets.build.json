@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "3hV3MDMHJ/ne0CNd35mB3zEhIvQ+/2rB2o9LgsLBBSg=",
+  "Source": "EcommerseAtesgah",
+  "BasePath": "_content/EcommerseAtesgah",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EcommerseAtesgah\\wwwroot",
+      "Source": "EcommerseAtesgah",
+      "ContentRoot": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\",
+      "BasePath": "_content/EcommerseAtesgah",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\23a5d3fa-2a14-4598-8cc3-4fe55f943af9.jpeg",
+      "SourceId": "EcommerseAtesgah",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\",
+      "BasePath": "_content/EcommerseAtesgah",
+      "RelativePath": "uploads/23a5d3fa-2a14-4598-8cc3-4fe55f943af9#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "14hv7ak9a7",
+      "Integrity": "Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\23a5d3fa-2a14-4598-8cc3-4fe55f943af9.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\547e19bd-e1cb-4269-869e-685d28e42ea4.jpg",
+      "SourceId": "EcommerseAtesgah",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\",
+      "BasePath": "_content/EcommerseAtesgah",
+      "RelativePath": "uploads/547e19bd-e1cb-4269-869e-685d28e42ea4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ej7l94b3zn",
+      "Integrity": "asJPyLguE9YE9EXs+RkFUuNBsT0KaNOSVdgR39Gxhm4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\547e19bd-e1cb-4269-869e-685d28e42ea4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\5ff73fde-e5e9-4578-a39d-a51c57d23eec.jpeg",
+      "SourceId": "EcommerseAtesgah",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\",
+      "BasePath": "_content/EcommerseAtesgah",
+      "RelativePath": "uploads/5ff73fde-e5e9-4578-a39d-a51c57d23eec#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "14hv7ak9a7",
+      "Integrity": "Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\5ff73fde-e5e9-4578-a39d-a51c57d23eec.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\6d2456f3-e9eb-4db9-83e0-2341d6720410.jpeg",
+      "SourceId": "EcommerseAtesgah",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\",
+      "BasePath": "_content/EcommerseAtesgah",
+      "RelativePath": "uploads/6d2456f3-e9eb-4db9-83e0-2341d6720410#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "14hv7ak9a7",
+      "Integrity": "Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\6d2456f3-e9eb-4db9-83e0-2341d6720410.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\8bc07e2c-12df-4920-be2c-75f23dd2975c.jpeg",
+      "SourceId": "EcommerseAtesgah",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\",
+      "BasePath": "_content/EcommerseAtesgah",
+      "RelativePath": "uploads/8bc07e2c-12df-4920-be2c-75f23dd2975c#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fiv6t6oj8y",
+      "Integrity": "BzrE/DShd/hfe/xzrYebqhtXfWrrJQU7ArfL8CoqPi0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8bc07e2c-12df-4920-be2c-75f23dd2975c.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\ba1cb433-06b9-4d78-95b1-b5ea0c581ae0.jpeg",
+      "SourceId": "EcommerseAtesgah",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\",
+      "BasePath": "_content/EcommerseAtesgah",
+      "RelativePath": "uploads/ba1cb433-06b9-4d78-95b1-b5ea0c581ae0#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "14hv7ak9a7",
+      "Integrity": "Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ba1cb433-06b9-4d78-95b1-b5ea0c581ae0.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\d1f0a4f8-7ace-41e4-a979-a79d75d26ef6.jpeg",
+      "SourceId": "EcommerseAtesgah",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\",
+      "BasePath": "_content/EcommerseAtesgah",
+      "RelativePath": "uploads/d1f0a4f8-7ace-41e4-a979-a79d75d26ef6#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zv4kw78gtc",
+      "Integrity": "v3HWZ6PyWU8OfLp8i7dYfJjLD/5e/UToW7jvE5DhhmM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d1f0a4f8-7ace-41e4-a979-a79d75d26ef6.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\fd4078ee-c4ac-4b5e-bdcf-f70ef02ebcde.jpeg",
+      "SourceId": "EcommerseAtesgah",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\",
+      "BasePath": "_content/EcommerseAtesgah",
+      "RelativePath": "uploads/fd4078ee-c4ac-4b5e-bdcf-f70ef02ebcde#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "14hv7ak9a7",
+      "Integrity": "Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\fd4078ee-c4ac-4b5e-bdcf-f70ef02ebcde.jpeg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/23a5d3fa-2a14-4598-8cc3-4fe55f943af9.14hv7ak9a7.jpeg",
+      "AssetFile": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\23a5d3fa-2a14-4598-8cc3-4fe55f943af9.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Feb 2026 18:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "14hv7ak9a7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/23a5d3fa-2a14-4598-8cc3-4fe55f943af9.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/23a5d3fa-2a14-4598-8cc3-4fe55f943af9.jpeg",
+      "AssetFile": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\23a5d3fa-2a14-4598-8cc3-4fe55f943af9.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Feb 2026 18:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/547e19bd-e1cb-4269-869e-685d28e42ea4.ej7l94b3zn.jpg",
+      "AssetFile": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\547e19bd-e1cb-4269-869e-685d28e42ea4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"asJPyLguE9YE9EXs+RkFUuNBsT0KaNOSVdgR39Gxhm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Feb 2026 18:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ej7l94b3zn"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/547e19bd-e1cb-4269-869e-685d28e42ea4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-asJPyLguE9YE9EXs+RkFUuNBsT0KaNOSVdgR39Gxhm4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/547e19bd-e1cb-4269-869e-685d28e42ea4.jpg",
+      "AssetFile": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\547e19bd-e1cb-4269-869e-685d28e42ea4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"asJPyLguE9YE9EXs+RkFUuNBsT0KaNOSVdgR39Gxhm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Feb 2026 18:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-asJPyLguE9YE9EXs+RkFUuNBsT0KaNOSVdgR39Gxhm4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5ff73fde-e5e9-4578-a39d-a51c57d23eec.14hv7ak9a7.jpeg",
+      "AssetFile": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\5ff73fde-e5e9-4578-a39d-a51c57d23eec.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Feb 2026 18:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "14hv7ak9a7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/5ff73fde-e5e9-4578-a39d-a51c57d23eec.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5ff73fde-e5e9-4578-a39d-a51c57d23eec.jpeg",
+      "AssetFile": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\5ff73fde-e5e9-4578-a39d-a51c57d23eec.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Feb 2026 18:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6d2456f3-e9eb-4db9-83e0-2341d6720410.14hv7ak9a7.jpeg",
+      "AssetFile": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\6d2456f3-e9eb-4db9-83e0-2341d6720410.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Feb 2026 18:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "14hv7ak9a7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/6d2456f3-e9eb-4db9-83e0-2341d6720410.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6d2456f3-e9eb-4db9-83e0-2341d6720410.jpeg",
+      "AssetFile": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\6d2456f3-e9eb-4db9-83e0-2341d6720410.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Feb 2026 18:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8bc07e2c-12df-4920-be2c-75f23dd2975c.fiv6t6oj8y.jpeg",
+      "AssetFile": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\8bc07e2c-12df-4920-be2c-75f23dd2975c.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BzrE/DShd/hfe/xzrYebqhtXfWrrJQU7ArfL8CoqPi0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Feb 2026 18:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fiv6t6oj8y"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/8bc07e2c-12df-4920-be2c-75f23dd2975c.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BzrE/DShd/hfe/xzrYebqhtXfWrrJQU7ArfL8CoqPi0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8bc07e2c-12df-4920-be2c-75f23dd2975c.jpeg",
+      "AssetFile": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\8bc07e2c-12df-4920-be2c-75f23dd2975c.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BzrE/DShd/hfe/xzrYebqhtXfWrrJQU7ArfL8CoqPi0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Feb 2026 18:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BzrE/DShd/hfe/xzrYebqhtXfWrrJQU7ArfL8CoqPi0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ba1cb433-06b9-4d78-95b1-b5ea0c581ae0.14hv7ak9a7.jpeg",
+      "AssetFile": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\ba1cb433-06b9-4d78-95b1-b5ea0c581ae0.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Feb 2026 18:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "14hv7ak9a7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ba1cb433-06b9-4d78-95b1-b5ea0c581ae0.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ba1cb433-06b9-4d78-95b1-b5ea0c581ae0.jpeg",
+      "AssetFile": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\ba1cb433-06b9-4d78-95b1-b5ea0c581ae0.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Feb 2026 18:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d1f0a4f8-7ace-41e4-a979-a79d75d26ef6.jpeg",
+      "AssetFile": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\d1f0a4f8-7ace-41e4-a979-a79d75d26ef6.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v3HWZ6PyWU8OfLp8i7dYfJjLD/5e/UToW7jvE5DhhmM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Feb 2026 18:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v3HWZ6PyWU8OfLp8i7dYfJjLD/5e/UToW7jvE5DhhmM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d1f0a4f8-7ace-41e4-a979-a79d75d26ef6.zv4kw78gtc.jpeg",
+      "AssetFile": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\d1f0a4f8-7ace-41e4-a979-a79d75d26ef6.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v3HWZ6PyWU8OfLp8i7dYfJjLD/5e/UToW7jvE5DhhmM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Feb 2026 18:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zv4kw78gtc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d1f0a4f8-7ace-41e4-a979-a79d75d26ef6.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v3HWZ6PyWU8OfLp8i7dYfJjLD/5e/UToW7jvE5DhhmM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fd4078ee-c4ac-4b5e-bdcf-f70ef02ebcde.14hv7ak9a7.jpeg",
+      "AssetFile": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\fd4078ee-c4ac-4b5e-bdcf-f70ef02ebcde.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Feb 2026 18:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "14hv7ak9a7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/fd4078ee-c4ac-4b5e-bdcf-f70ef02ebcde.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fd4078ee-c4ac-4b5e-bdcf-f70ef02ebcde.jpeg",
+      "AssetFile": "C:\\Users\\Sheki-Komp\\Desktop\\Ateshag\\EcommerseAtesgah\\EcommerseAtesgah\\wwwroot\\uploads\\fd4078ee-c4ac-4b5e-bdcf-f70ef02ebcde.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Feb 2026 18:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ybfnj4H/6mE8WAFTql5msBZ43+7v+1VPMwHnfSc+46g="
+        }
+      ]
+    }
+  ]
+}
